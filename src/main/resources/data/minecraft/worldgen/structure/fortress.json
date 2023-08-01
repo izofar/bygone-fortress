@@ -1,7 +1,7 @@
 {
-  "type": "bygonenether:fortress",
-  "biomes": "#bygonenether:has_structure/fortress",
-  "start_pool": "bygonenether:fortress/start_pool",
+  "type": "bygonefortress:fortress",
+  "biomes": "#bygonefortress:has_structure/fortress",
+  "start_pool": "bygonefortress:fortress/start_pool",
   "size": 7,
   "max_distance_from_center": 128,
   "start_height": {
