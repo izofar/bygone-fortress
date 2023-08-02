@@ -51,15 +51,6 @@ body:
         label: Mod Version
         description: The version of the mod you were using when the bug occured
         options:
-          - "1.3.0"
-          - "1.2.1"
-          - "1.2"
-          - "1.1.2"
-          - "1.1.1"
-          - "1.1.0"
-          - "1.0.3"
-          - "1.0.2"
-          - "1.0.1"
           - "1.0.0"
       validations:
         required: true
@@ -68,7 +59,7 @@ body:
         label: Minecraft Version
         description: The version of Minecraft you were using when the bug occured
         options:
-          - "1.20"
+          - "1.20.1"
           - "1.19.4"
           - "1.19.2"
           - "1.18.2"
