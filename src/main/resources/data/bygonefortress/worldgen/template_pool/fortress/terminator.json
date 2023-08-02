@@ -1,0 +1,42 @@
+{
+  "name": "bygonefortress:fortress/terminator",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "bygonefortress:fortress/terminator_1",
+        "processors": "bygonefortress:fortress/fortress",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "bygonefortress:fortress/terminator_2",
+        "processors": "bygonefortress:fortress/fortress",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "bygonefortress:fortress/terminator_3",
+        "processors": "bygonefortress:fortress/fortress",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "bygonefortress:fortress/terminator_4",
+        "processors": "bygonefortress:fortress/fortress",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ]
+}

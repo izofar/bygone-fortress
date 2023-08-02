@@ -1,0 +1,42 @@
+{
+  "name": "bygonefortress:fortress/outside_connector",
+  "fallback": "bygonefortress:fortress/outside_connector",
+  "elements": [
+    {
+      "weight": 3,
+      "element": {
+        "location": "bygonefortress:fortress/4_way_outside1",
+        "processors": "bygonefortress:fortress/fortress",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "bygonefortress:fortress/4_way_outside2",
+        "processors": "bygonefortress:fortress/fortress",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "bygonefortress:fortress/4_way_outside3",
+        "processors": "bygonefortress:fortress/fortress",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "bygonefortress:fortress/tribridge/tower",
+        "processors": "bygonefortress:fortress/fortress",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ]
+}

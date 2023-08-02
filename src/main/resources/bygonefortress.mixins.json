@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"package": "com.izofar.bygonefortress.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"refmap": "bygonefortress.refmap.json",
+	"mixins": [
+		"NoBasaltColumnsInStructuresMixin",
+		"NoDeltasInStructuresMixin",
+		"WorldGenRegionAccessor"
+	],
+	"client": [
+	],
+	"minVersion": "0.8"
+}
