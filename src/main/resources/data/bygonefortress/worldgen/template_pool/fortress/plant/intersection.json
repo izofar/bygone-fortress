@@ -1,0 +1,15 @@
+{
+  "name": "bygonefortress:fortress/plant/intersection",
+  "fallback": "bygonefortress:fortress/terminator",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "bygonefortress:fortress/plant/intersection",
+        "processors": "bygonefortress:fortress/fortress",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ]
+}
